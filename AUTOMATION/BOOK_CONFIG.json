@@ -1,0 +1,23 @@
+{
+  "minimum_pages": 500,
+  "target_words": 150000,
+  "minimum_chapters": 26,
+  "maximum_chapters": 45,
+  "chapter_count_mode": "subject_based",
+  "page_count_mode": "calculated",
+  "table_of_contents": true,
+  "page_numbers": true,
+  "preface": true,
+  "introduction": true,
+  "conclusion": true,
+  "case_studies": true,
+  "tables_and_figures": true,
+  "research_notes": true,
+  "sources": true,
+  "references": true,
+  "bibliography": true,
+  "glossary": true,
+  "index": true,
+  "revision_history": true,
+  "publication_tracking": true
+}

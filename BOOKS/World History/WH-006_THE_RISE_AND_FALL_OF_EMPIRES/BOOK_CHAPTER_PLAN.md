@@ -1,0 +1,774 @@
+# Chapter Plan: The Rise and Fall of Empires
+
+**Book ID:** WH-006
+**Category:** World History
+**Planned chapters:** 45
+
+---
+
+## Planned chapters
+
+### Chapter 1: Historical Foundations
+
+**File:** `05_CHAPTERS/CHAPTER_01/CHAPTER_01.md`
+
+**Central subject:** Historical Foundations
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how historical foundations contributes to the central subject of *The Rise and Fall of Empires*.
+
+---
+
+### Chapter 2: Geographic Conditions
+
+**File:** `05_CHAPTERS/CHAPTER_02/CHAPTER_02.md`
+
+**Central subject:** Geographic Conditions
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how geographic conditions contributes to the central subject of *The Rise and Fall of Empires*.
+
+---
+
+### Chapter 3: Early Political Structures
+
+**File:** `05_CHAPTERS/CHAPTER_03/CHAPTER_03.md`
+
+**Central subject:** Early Political Structures
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how early political structures contributes to the central subject of *The Rise and Fall of Empires*.
+
+---
+
+### Chapter 4: Trade Networks
+
+**File:** `05_CHAPTERS/CHAPTER_04/CHAPTER_04.md`
+
+**Central subject:** Trade Networks
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how trade networks contributes to the central subject of *The Rise and Fall of Empires*.
+
+---
+
+### Chapter 5: Migration and Cultural Exchange
+
+**File:** `05_CHAPTERS/CHAPTER_05/CHAPTER_05.md`
+
+**Central subject:** Migration and Cultural Exchange
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how migration and cultural exchange contributes to the central subject of *The Rise and Fall of Empires*.
+
+---
+
+### Chapter 6: Economic Systems
+
+**File:** `05_CHAPTERS/CHAPTER_06/CHAPTER_06.md`
+
+**Central subject:** Economic Systems
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how economic systems contributes to the central subject of *The Rise and Fall of Empires*.
+
+---
+
+### Chapter 7: Military Power
+
+**File:** `05_CHAPTERS/CHAPTER_07/CHAPTER_07.md`
+
+**Central subject:** Military Power
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how military power contributes to the central subject of *The Rise and Fall of Empires*.
+
+---
+
+### Chapter 8: Diplomacy and Alliances
+
+**File:** `05_CHAPTERS/CHAPTER_08/CHAPTER_08.md`
+
+**Central subject:** Diplomacy and Alliances
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how diplomacy and alliances contributes to the central subject of *The Rise and Fall of Empires*.
+
+---
+
+### Chapter 9: Religion and Society
+
+**File:** `05_CHAPTERS/CHAPTER_09/CHAPTER_09.md`
+
+**Central subject:** Religion and Society
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how religion and society contributes to the central subject of *The Rise and Fall of Empires*.
+
+---
+
+### Chapter 10: Technology and Innovation
+
+**File:** `05_CHAPTERS/CHAPTER_10/CHAPTER_10.md`
+
+**Central subject:** Technology and Innovation
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how technology and innovation contributes to the central subject of *The Rise and Fall of Empires*.
+
+---
+
+### Chapter 11: Urban Development
+
+**File:** `05_CHAPTERS/CHAPTER_11/CHAPTER_11.md`
+
+**Central subject:** Urban Development
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how urban development contributes to the central subject of *The Rise and Fall of Empires*.
+
+---
+
+### Chapter 12: Institutions and Administration
+
+**File:** `05_CHAPTERS/CHAPTER_12/CHAPTER_12.md`
+
+**Central subject:** Institutions and Administration
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how institutions and administration contributes to the central subject of *The Rise and Fall of Empires*.
+
+---
+
+### Chapter 13: Social Hierarchies
+
+**File:** `05_CHAPTERS/CHAPTER_13/CHAPTER_13.md`
+
+**Central subject:** Social Hierarchies
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how social hierarchies contributes to the central subject of *The Rise and Fall of Empires*.
+
+---
+
+### Chapter 14: Resource Competition
+
+**File:** `05_CHAPTERS/CHAPTER_14/CHAPTER_14.md`
+
+**Central subject:** Resource Competition
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how resource competition contributes to the central subject of *The Rise and Fall of Empires*.
+
+---
+
+### Chapter 15: Political Transformation
+
+**File:** `05_CHAPTERS/CHAPTER_15/CHAPTER_15.md`
+
+**Central subject:** Political Transformation
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how political transformation contributes to the central subject of *The Rise and Fall of Empires*.
+
+---
+
+### Chapter 16: Conflict and Warfare
+
+**File:** `05_CHAPTERS/CHAPTER_16/CHAPTER_16.md`
+
+**Central subject:** Conflict and Warfare
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how conflict and warfare contributes to the central subject of *The Rise and Fall of Empires*.
+
+---
+
+### Chapter 17: Commercial Expansion
+
+**File:** `05_CHAPTERS/CHAPTER_17/CHAPTER_17.md`
+
+**Central subject:** Commercial Expansion
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how commercial expansion contributes to the central subject of *The Rise and Fall of Empires*.
+
+---
+
+### Chapter 18: Intellectual Exchange
+
+**File:** `05_CHAPTERS/CHAPTER_18/CHAPTER_18.md`
+
+**Central subject:** Intellectual Exchange
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how intellectual exchange contributes to the central subject of *The Rise and Fall of Empires*.
+
+---
+
+### Chapter 19: Colonial Expansion
+
+**File:** `05_CHAPTERS/CHAPTER_19/CHAPTER_19.md`
+
+**Central subject:** Colonial Expansion
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how colonial expansion contributes to the central subject of *The Rise and Fall of Empires*.
+
+---
+
+### Chapter 20: Industrial Transformation
+
+**File:** `05_CHAPTERS/CHAPTER_20/CHAPTER_20.md`
+
+**Central subject:** Industrial Transformation
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how industrial transformation contributes to the central subject of *The Rise and Fall of Empires*.
+
+---
+
+### Chapter 21: Nationalism
+
+**File:** `05_CHAPTERS/CHAPTER_21/CHAPTER_21.md`
+
+**Central subject:** Nationalism
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how nationalism contributes to the central subject of *The Rise and Fall of Empires*.
+
+---
+
+### Chapter 22: Revolutionary Change
+
+**File:** `05_CHAPTERS/CHAPTER_22/CHAPTER_22.md`
+
+**Central subject:** Revolutionary Change
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how revolutionary change contributes to the central subject of *The Rise and Fall of Empires*.
+
+---
+
+### Chapter 23: Imperial Competition
+
+**File:** `05_CHAPTERS/CHAPTER_23/CHAPTER_23.md`
+
+**Central subject:** Imperial Competition
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how imperial competition contributes to the central subject of *The Rise and Fall of Empires*.
+
+---
+
+### Chapter 24: Globalization
+
+**File:** `05_CHAPTERS/CHAPTER_24/CHAPTER_24.md`
+
+**Central subject:** Globalization
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how globalization contributes to the central subject of *The Rise and Fall of Empires*.
+
+---
+
+### Chapter 25: Economic Transformation
+
+**File:** `05_CHAPTERS/CHAPTER_25/CHAPTER_25.md`
+
+**Central subject:** Economic Transformation
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how economic transformation contributes to the central subject of *The Rise and Fall of Empires*.
+
+---
+
+### Chapter 26: Social Transformation
+
+**File:** `05_CHAPTERS/CHAPTER_26/CHAPTER_26.md`
+
+**Central subject:** Social Transformation
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how social transformation contributes to the central subject of *The Rise and Fall of Empires*.
+
+---
+
+### Chapter 27: Cultural Transformation
+
+**File:** `05_CHAPTERS/CHAPTER_27/CHAPTER_27.md`
+
+**Central subject:** Cultural Transformation
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how cultural transformation contributes to the central subject of *The Rise and Fall of Empires*.
+
+---
+
+### Chapter 28: International Relations
+
+**File:** `05_CHAPTERS/CHAPTER_28/CHAPTER_28.md`
+
+**Central subject:** International Relations
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how international relations contributes to the central subject of *The Rise and Fall of Empires*.
+
+---
+
+### Chapter 29: Decline and Transformation
+
+**File:** `05_CHAPTERS/CHAPTER_29/CHAPTER_29.md`
+
+**Central subject:** Decline and Transformation
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how decline and transformation contributes to the central subject of *The Rise and Fall of Empires*.
+
+---
+
+### Chapter 30: Historical Legacy
+
+**File:** `05_CHAPTERS/CHAPTER_30/CHAPTER_30.md`
+
+**Central subject:** Historical Legacy
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how historical legacy contributes to the central subject of *The Rise and Fall of Empires*.
+
+---
+
+### Chapter 31: Modern Connections
+
+**File:** `05_CHAPTERS/CHAPTER_31/CHAPTER_31.md`
+
+**Central subject:** Modern Connections
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how modern connections contributes to the central subject of *The Rise and Fall of Empires*.
+
+---
+
+### Chapter 32: Comparative Historical Analysis
+
+**File:** `05_CHAPTERS/CHAPTER_32/CHAPTER_32.md`
+
+**Central subject:** Comparative Historical Analysis
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how comparative historical analysis contributes to the central subject of *The Rise and Fall of Empires*.
+
+---
+
+### Chapter 33: Long Term Consequences
+
+**File:** `05_CHAPTERS/CHAPTER_33/CHAPTER_33.md`
+
+**Central subject:** Long Term Consequences
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how long term consequences contributes to the central subject of *The Rise and Fall of Empires*.
+
+---
+
+### Chapter 34: Major Historical Debates
+
+**File:** `05_CHAPTERS/CHAPTER_34/CHAPTER_34.md`
+
+**Central subject:** Major Historical Debates
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how major historical debates contributes to the central subject of *The Rise and Fall of Empires*.
+
+---
+
+### Chapter 35: Research Evidence
+
+**File:** `05_CHAPTERS/CHAPTER_35/CHAPTER_35.md`
+
+**Central subject:** Research Evidence
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how research evidence contributes to the central subject of *The Rise and Fall of Empires*.
+
+---
+
+### Chapter 36: Conclusion
+
+**File:** `05_CHAPTERS/CHAPTER_36/CHAPTER_36.md`
+
+**Central subject:** Conclusion
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how conclusion contributes to the central subject of *The Rise and Fall of Empires*.
+
+---
+
+### Chapter 37: Specialized Study 37
+
+**File:** `05_CHAPTERS/CHAPTER_37/CHAPTER_37.md`
+
+**Central subject:** Specialized Study 37
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how specialized study 37 contributes to the central subject of *The Rise and Fall of Empires*.
+
+---
+
+### Chapter 38: Specialized Study 38
+
+**File:** `05_CHAPTERS/CHAPTER_38/CHAPTER_38.md`
+
+**Central subject:** Specialized Study 38
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how specialized study 38 contributes to the central subject of *The Rise and Fall of Empires*.
+
+---
+
+### Chapter 39: Specialized Study 39
+
+**File:** `05_CHAPTERS/CHAPTER_39/CHAPTER_39.md`
+
+**Central subject:** Specialized Study 39
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how specialized study 39 contributes to the central subject of *The Rise and Fall of Empires*.
+
+---
+
+### Chapter 40: Specialized Study 40
+
+**File:** `05_CHAPTERS/CHAPTER_40/CHAPTER_40.md`
+
+**Central subject:** Specialized Study 40
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how specialized study 40 contributes to the central subject of *The Rise and Fall of Empires*.
+
+---
+
+### Chapter 41: Specialized Study 41
+
+**File:** `05_CHAPTERS/CHAPTER_41/CHAPTER_41.md`
+
+**Central subject:** Specialized Study 41
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how specialized study 41 contributes to the central subject of *The Rise and Fall of Empires*.
+
+---
+
+### Chapter 42: Specialized Study 42
+
+**File:** `05_CHAPTERS/CHAPTER_42/CHAPTER_42.md`
+
+**Central subject:** Specialized Study 42
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how specialized study 42 contributes to the central subject of *The Rise and Fall of Empires*.
+
+---
+
+### Chapter 43: Specialized Study 43
+
+**File:** `05_CHAPTERS/CHAPTER_43/CHAPTER_43.md`
+
+**Central subject:** Specialized Study 43
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how specialized study 43 contributes to the central subject of *The Rise and Fall of Empires*.
+
+---
+
+### Chapter 44: Specialized Study 44
+
+**File:** `05_CHAPTERS/CHAPTER_44/CHAPTER_44.md`
+
+**Central subject:** Specialized Study 44
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how specialized study 44 contributes to the central subject of *The Rise and Fall of Empires*.
+
+---
+
+### Chapter 45: Specialized Study 45
+
+**File:** `05_CHAPTERS/CHAPTER_45/CHAPTER_45.md`
+
+**Central subject:** Specialized Study 45
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how specialized study 45 contributes to the central subject of *The Rise and Fall of Empires*.
+
+---

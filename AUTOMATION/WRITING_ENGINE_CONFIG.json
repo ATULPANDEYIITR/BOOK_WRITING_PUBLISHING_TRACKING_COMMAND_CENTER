@@ -1,0 +1,35 @@
+{
+  "engine": "book_writing_engine",
+  "target_words_per_book": 150000,
+  "minimum_pages": 500,
+  "minimum_chapters": 27,
+  "maximum_chapters": 45,
+  "target_words_per_chapter": {
+    "minimum": 4000,
+    "maximum": 7000
+  },
+  "writing_requirements": {
+    "title_specific_content": true,
+    "category_specific_content": true,
+    "research_based": true,
+    "historical_context": true,
+    "critical_analysis": true,
+    "case_studies": true,
+    "examples": true,
+    "tables": true,
+    "references": true,
+    "chapter_conclusion": true,
+    "avoid_repetition": true,
+    "avoid_placeholder_text": true
+  },
+  "workflow": [
+    "research",
+    "outline",
+    "chapter_generation",
+    "quality_check",
+    "word_count",
+    "progress_update",
+    "revision",
+    "publication_preparation"
+  ]
+}

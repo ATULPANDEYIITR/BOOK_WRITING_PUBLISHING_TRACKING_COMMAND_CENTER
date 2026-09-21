@@ -1,0 +1,757 @@
+# Chapter Plan: Inequality Wealth and Economic Mobility
+
+**Book ID:** EC-009
+**Category:** Economics
+**Planned chapters:** 44
+
+---
+
+## Planned chapters
+
+### Chapter 1: Economic Foundations
+
+**File:** `05_CHAPTERS/CHAPTER_01/CHAPTER_01.md`
+
+**Central subject:** Economic Foundations
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how economic foundations contributes to the central subject of *Inequality Wealth and Economic Mobility*.
+
+---
+
+### Chapter 2: Markets
+
+**File:** `05_CHAPTERS/CHAPTER_02/CHAPTER_02.md`
+
+**Central subject:** Markets
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how markets contributes to the central subject of *Inequality Wealth and Economic Mobility*.
+
+---
+
+### Chapter 3: Supply and Demand
+
+**File:** `05_CHAPTERS/CHAPTER_03/CHAPTER_03.md`
+
+**Central subject:** Supply and Demand
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how supply and demand contributes to the central subject of *Inequality Wealth and Economic Mobility*.
+
+---
+
+### Chapter 4: Incentives
+
+**File:** `05_CHAPTERS/CHAPTER_04/CHAPTER_04.md`
+
+**Central subject:** Incentives
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how incentives contributes to the central subject of *Inequality Wealth and Economic Mobility*.
+
+---
+
+### Chapter 5: Consumer Behavior
+
+**File:** `05_CHAPTERS/CHAPTER_05/CHAPTER_05.md`
+
+**Central subject:** Consumer Behavior
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how consumer behavior contributes to the central subject of *Inequality Wealth and Economic Mobility*.
+
+---
+
+### Chapter 6: Production
+
+**File:** `05_CHAPTERS/CHAPTER_06/CHAPTER_06.md`
+
+**Central subject:** Production
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how production contributes to the central subject of *Inequality Wealth and Economic Mobility*.
+
+---
+
+### Chapter 7: Firms
+
+**File:** `05_CHAPTERS/CHAPTER_07/CHAPTER_07.md`
+
+**Central subject:** Firms
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how firms contributes to the central subject of *Inequality Wealth and Economic Mobility*.
+
+---
+
+### Chapter 8: Competition
+
+**File:** `05_CHAPTERS/CHAPTER_08/CHAPTER_08.md`
+
+**Central subject:** Competition
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how competition contributes to the central subject of *Inequality Wealth and Economic Mobility*.
+
+---
+
+### Chapter 9: Pricing
+
+**File:** `05_CHAPTERS/CHAPTER_09/CHAPTER_09.md`
+
+**Central subject:** Pricing
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how pricing contributes to the central subject of *Inequality Wealth and Economic Mobility*.
+
+---
+
+### Chapter 10: Money
+
+**File:** `05_CHAPTERS/CHAPTER_10/CHAPTER_10.md`
+
+**Central subject:** Money
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how money contributes to the central subject of *Inequality Wealth and Economic Mobility*.
+
+---
+
+### Chapter 11: Banking
+
+**File:** `05_CHAPTERS/CHAPTER_11/CHAPTER_11.md`
+
+**Central subject:** Banking
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how banking contributes to the central subject of *Inequality Wealth and Economic Mobility*.
+
+---
+
+### Chapter 12: Inflation
+
+**File:** `05_CHAPTERS/CHAPTER_12/CHAPTER_12.md`
+
+**Central subject:** Inflation
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how inflation contributes to the central subject of *Inequality Wealth and Economic Mobility*.
+
+---
+
+### Chapter 13: Employment
+
+**File:** `05_CHAPTERS/CHAPTER_13/CHAPTER_13.md`
+
+**Central subject:** Employment
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how employment contributes to the central subject of *Inequality Wealth and Economic Mobility*.
+
+---
+
+### Chapter 14: Monetary Policy
+
+**File:** `05_CHAPTERS/CHAPTER_14/CHAPTER_14.md`
+
+**Central subject:** Monetary Policy
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how monetary policy contributes to the central subject of *Inequality Wealth and Economic Mobility*.
+
+---
+
+### Chapter 15: Fiscal Policy
+
+**File:** `05_CHAPTERS/CHAPTER_15/CHAPTER_15.md`
+
+**Central subject:** Fiscal Policy
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how fiscal policy contributes to the central subject of *Inequality Wealth and Economic Mobility*.
+
+---
+
+### Chapter 16: Public Finance
+
+**File:** `05_CHAPTERS/CHAPTER_16/CHAPTER_16.md`
+
+**Central subject:** Public Finance
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how public finance contributes to the central subject of *Inequality Wealth and Economic Mobility*.
+
+---
+
+### Chapter 17: Economic Growth
+
+**File:** `05_CHAPTERS/CHAPTER_17/CHAPTER_17.md`
+
+**Central subject:** Economic Growth
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how economic growth contributes to the central subject of *Inequality Wealth and Economic Mobility*.
+
+---
+
+### Chapter 18: Development
+
+**File:** `05_CHAPTERS/CHAPTER_18/CHAPTER_18.md`
+
+**Central subject:** Development
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how development contributes to the central subject of *Inequality Wealth and Economic Mobility*.
+
+---
+
+### Chapter 19: Institutions
+
+**File:** `05_CHAPTERS/CHAPTER_19/CHAPTER_19.md`
+
+**Central subject:** Institutions
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how institutions contributes to the central subject of *Inequality Wealth and Economic Mobility*.
+
+---
+
+### Chapter 20: International Trade
+
+**File:** `05_CHAPTERS/CHAPTER_20/CHAPTER_20.md`
+
+**Central subject:** International Trade
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how international trade contributes to the central subject of *Inequality Wealth and Economic Mobility*.
+
+---
+
+### Chapter 21: Globalization
+
+**File:** `05_CHAPTERS/CHAPTER_21/CHAPTER_21.md`
+
+**Central subject:** Globalization
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how globalization contributes to the central subject of *Inequality Wealth and Economic Mobility*.
+
+---
+
+### Chapter 22: Exchange Rates
+
+**File:** `05_CHAPTERS/CHAPTER_22/CHAPTER_22.md`
+
+**Central subject:** Exchange Rates
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how exchange rates contributes to the central subject of *Inequality Wealth and Economic Mobility*.
+
+---
+
+### Chapter 23: Financial Markets
+
+**File:** `05_CHAPTERS/CHAPTER_23/CHAPTER_23.md`
+
+**Central subject:** Financial Markets
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how financial markets contributes to the central subject of *Inequality Wealth and Economic Mobility*.
+
+---
+
+### Chapter 24: Inequality
+
+**File:** `05_CHAPTERS/CHAPTER_24/CHAPTER_24.md`
+
+**Central subject:** Inequality
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how inequality contributes to the central subject of *Inequality Wealth and Economic Mobility*.
+
+---
+
+### Chapter 25: Poverty
+
+**File:** `05_CHAPTERS/CHAPTER_25/CHAPTER_25.md`
+
+**Central subject:** Poverty
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how poverty contributes to the central subject of *Inequality Wealth and Economic Mobility*.
+
+---
+
+### Chapter 26: Labor Markets
+
+**File:** `05_CHAPTERS/CHAPTER_26/CHAPTER_26.md`
+
+**Central subject:** Labor Markets
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how labor markets contributes to the central subject of *Inequality Wealth and Economic Mobility*.
+
+---
+
+### Chapter 27: Behavioral Economics
+
+**File:** `05_CHAPTERS/CHAPTER_27/CHAPTER_27.md`
+
+**Central subject:** Behavioral Economics
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how behavioral economics contributes to the central subject of *Inequality Wealth and Economic Mobility*.
+
+---
+
+### Chapter 28: Environmental Economics
+
+**File:** `05_CHAPTERS/CHAPTER_28/CHAPTER_28.md`
+
+**Central subject:** Environmental Economics
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how environmental economics contributes to the central subject of *Inequality Wealth and Economic Mobility*.
+
+---
+
+### Chapter 29: Digital Economics
+
+**File:** `05_CHAPTERS/CHAPTER_29/CHAPTER_29.md`
+
+**Central subject:** Digital Economics
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how digital economics contributes to the central subject of *Inequality Wealth and Economic Mobility*.
+
+---
+
+### Chapter 30: Technology and Productivity
+
+**File:** `05_CHAPTERS/CHAPTER_30/CHAPTER_30.md`
+
+**Central subject:** Technology and Productivity
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how technology and productivity contributes to the central subject of *Inequality Wealth and Economic Mobility*.
+
+---
+
+### Chapter 31: Economic Crises
+
+**File:** `05_CHAPTERS/CHAPTER_31/CHAPTER_31.md`
+
+**Central subject:** Economic Crises
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how economic crises contributes to the central subject of *Inequality Wealth and Economic Mobility*.
+
+---
+
+### Chapter 32: Economic Policy
+
+**File:** `05_CHAPTERS/CHAPTER_32/CHAPTER_32.md`
+
+**Central subject:** Economic Policy
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how economic policy contributes to the central subject of *Inequality Wealth and Economic Mobility*.
+
+---
+
+### Chapter 33: Economic Measurement
+
+**File:** `05_CHAPTERS/CHAPTER_33/CHAPTER_33.md`
+
+**Central subject:** Economic Measurement
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how economic measurement contributes to the central subject of *Inequality Wealth and Economic Mobility*.
+
+---
+
+### Chapter 34: Comparative Economics
+
+**File:** `05_CHAPTERS/CHAPTER_34/CHAPTER_34.md`
+
+**Central subject:** Comparative Economics
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how comparative economics contributes to the central subject of *Inequality Wealth and Economic Mobility*.
+
+---
+
+### Chapter 35: Future Economies
+
+**File:** `05_CHAPTERS/CHAPTER_35/CHAPTER_35.md`
+
+**Central subject:** Future Economies
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how future economies contributes to the central subject of *Inequality Wealth and Economic Mobility*.
+
+---
+
+### Chapter 36: Conclusion
+
+**File:** `05_CHAPTERS/CHAPTER_36/CHAPTER_36.md`
+
+**Central subject:** Conclusion
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how conclusion contributes to the central subject of *Inequality Wealth and Economic Mobility*.
+
+---
+
+### Chapter 37: Specialized Study 37
+
+**File:** `05_CHAPTERS/CHAPTER_37/CHAPTER_37.md`
+
+**Central subject:** Specialized Study 37
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how specialized study 37 contributes to the central subject of *Inequality Wealth and Economic Mobility*.
+
+---
+
+### Chapter 38: Specialized Study 38
+
+**File:** `05_CHAPTERS/CHAPTER_38/CHAPTER_38.md`
+
+**Central subject:** Specialized Study 38
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how specialized study 38 contributes to the central subject of *Inequality Wealth and Economic Mobility*.
+
+---
+
+### Chapter 39: Specialized Study 39
+
+**File:** `05_CHAPTERS/CHAPTER_39/CHAPTER_39.md`
+
+**Central subject:** Specialized Study 39
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how specialized study 39 contributes to the central subject of *Inequality Wealth and Economic Mobility*.
+
+---
+
+### Chapter 40: Specialized Study 40
+
+**File:** `05_CHAPTERS/CHAPTER_40/CHAPTER_40.md`
+
+**Central subject:** Specialized Study 40
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how specialized study 40 contributes to the central subject of *Inequality Wealth and Economic Mobility*.
+
+---
+
+### Chapter 41: Specialized Study 41
+
+**File:** `05_CHAPTERS/CHAPTER_41/CHAPTER_41.md`
+
+**Central subject:** Specialized Study 41
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how specialized study 41 contributes to the central subject of *Inequality Wealth and Economic Mobility*.
+
+---
+
+### Chapter 42: Specialized Study 42
+
+**File:** `05_CHAPTERS/CHAPTER_42/CHAPTER_42.md`
+
+**Central subject:** Specialized Study 42
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how specialized study 42 contributes to the central subject of *Inequality Wealth and Economic Mobility*.
+
+---
+
+### Chapter 43: Specialized Study 43
+
+**File:** `05_CHAPTERS/CHAPTER_43/CHAPTER_43.md`
+
+**Central subject:** Specialized Study 43
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how specialized study 43 contributes to the central subject of *Inequality Wealth and Economic Mobility*.
+
+---
+
+### Chapter 44: Specialized Study 44
+
+**File:** `05_CHAPTERS/CHAPTER_44/CHAPTER_44.md`
+
+**Central subject:** Specialized Study 44
+
+**Research requirements:**
+- Academic and authoritative sources
+- Primary sources where applicable
+- Relevant data, examples, or case studies
+- Tables, figures, timelines, or diagrams where useful
+
+**Expected contribution:**
+Explain how specialized study 44 contributes to the central subject of *Inequality Wealth and Economic Mobility*.
+
+---
