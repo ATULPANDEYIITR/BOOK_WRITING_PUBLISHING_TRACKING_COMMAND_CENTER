@@ -25,28 +25,33 @@ jobs:
     steps:
 
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.12"
+
+      - name: Verify Python
+        run: |
+          python --version
+          python -c "import sys; print(sys.executable)"
 
       - name: Build dashboard data
         run: |
           python AUTOMATION/dashboard/build_dashboard_data.py
 
+      - name: Verify dashboard data
+        run: |
+          test -f dashboard/data/dashboard-data.json
+          echo "dashboard-data.json created successfully"
+          wc -c dashboard/data/dashboard-data.json
+
       - name: Prepare Pages artifact
         run: |
           mkdir -p _site
-
           cp index.html _site/index.html
-
           cp -r dashboard _site/dashboard
-
-          cp -r BOOK_TRACKER _site/BOOK_TRACKER
-
-          cp -r BOOKS _site/BOOKS
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
